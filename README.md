@@ -13,9 +13,12 @@ Open with a text editor.
 
 Copy and replace all YourName with whatever handle you wish.
 
+Copy your discord ID and replace {discordid}
+
 Edit individual lines with whatever content you wish.
 
 Save and deploy.
+
 ## Where to host
 As this is a free resource sponsored by Honse Group LLC, we recommend you visit their website and deploy via their hobbyist plan!
 
